@@ -56,8 +56,9 @@ top_hashtags = hashtags.value_counts().head(10)
 fig = px.bar(x=top_hashtags.index, y=top_hashtags.values, labels={"x": "Hashtags", "y": "Count"}, template="plotly_dark")
 st.plotly_chart(fig, use_container_width=True)
 
-# 🎖️ Developer Credit
-st.sidebar.markdown("🚀 **Built by: D ARUN KUMAR**")
-st.sidebar.markdown("📅 **Date:** 2025")
-st.sidebar.markdown("📍 **Project:** DK X Sentiment Analysis Dashboard")
-st.sidebar.markdown("💡 **Powered by Streamlit & Plotly**")
+# ℹ Developer Info
+st.sidebar.markdown("---")
+st.sidebar.subheader("👨‍💻 Developer Info")
+st.sidebar.write("**Name:** D ARUN KUMAR")
+st.sidebar.write("📧 Email: kumardarun11@gmail.com")
+st.sidebar.write("[GitHub](https://github.com/kumardarun11) | [LinkedIn](https://linkedin.com/in/kumardarun11)")
