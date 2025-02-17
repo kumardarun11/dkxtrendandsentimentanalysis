@@ -4,6 +4,8 @@
 
 This project is a **Twitter (X) Sentiment Analysis Dashboard**, which collects, processes, and visualizes sentiment trends from tweets related to AI technology. The dashboard is built using **Python, Tweepy, Pandas, Streamlit, and Plotly**.
 
+## 🔗 **Live Demo:** [DK YouTube Trending Analysis Dashboard](https://dkxtrendandsentimentanalysis-bexdblctqvnxmdymyntvb2.streamlit.app/)
+
 ## 📌 Features
 
 - ✅ **Tweet Collection**: Fetches real-time tweets using Twitter API.
@@ -70,19 +72,19 @@ The dashboard provides **interactive visualizations** for tweet sentiment analys
 
 ### 1️⃣Sentiment Distribution
 
-![image](https://github.com/user-attachments/assets/e33db809-009b-4e02-89d5-21db1ce9435c)
+!(https://github.com/user-attachments/assets/19d6cf5f-84d4-4e07-ad9f-04861b01a095)
 
 ### 2️⃣Most Used Words in Tweets
 
-![image](https://github.com/user-attachments/assets/b56427e6-fe28-4a95-a9c2-c00aa160eae5)
+!(https://github.com/user-attachments/assets/018ded66-29a6-4275-b228-c4b61437d443)
 
 ### 3️⃣Likes Over Time & Most Liked Tweets
 
-![image](https://github.com/user-attachments/assets/795d44e3-7145-4692-9c3f-e5bc6c7ffa14)
+!(https://github.com/user-attachments/assets/75fc4d6e-f193-4644-8c53-00d9472da951)
 
 ### 4️⃣Trending Hashtags
 
-![image](https://github.com/user-attachments/assets/084a6cb9-f4ad-433e-9e03-14d3c66828b8)
+!(https://github.com/user-attachments/assets/68ced3d8-b452-43da-8530-0eb8c8f98fc6)
 
 ## 📜 License
 
