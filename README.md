@@ -90,10 +90,11 @@ The dashboard provides **interactive visualizations** for tweet sentiment analys
 
 This project is licensed under the **MIT License**.
 
-## 🎖️ Author
+## 👨‍💻 **Developer**
 
-Developed by **D ARUN KUMAR**
-🚀 **Powered by Streamlit & Plotly**
+**D ARUN KUMAR**
+📧 kumardarun11@gmail.com
+🔗 [GitHub](https://github.com/kumardarun11) | [LinkedIn](https://linkedin.com/in/kumardarun11)
 
 ---
 
