@@ -72,19 +72,19 @@ The dashboard provides **interactive visualizations** for tweet sentiment analys
 
 ### 1️⃣Sentiment Distribution
 
-!(https://github.com/user-attachments/assets/19d6cf5f-84d4-4e07-ad9f-04861b01a095)
+![image](https://github.com/user-attachments/assets/f763e27a-451f-45e7-a834-1e36e2ee9a7a)
 
 ### 2️⃣Most Used Words in Tweets
 
-!(https://github.com/user-attachments/assets/018ded66-29a6-4275-b228-c4b61437d443)
+![image](https://github.com/user-attachments/assets/152792f9-0547-47a6-b26d-6a25e639515d)
 
 ### 3️⃣Likes Over Time & Most Liked Tweets
 
-!(https://github.com/user-attachments/assets/75fc4d6e-f193-4644-8c53-00d9472da951)
+![image](https://github.com/user-attachments/assets/e240da14-f05a-4bbe-8d73-c82e891163fe)
 
 ### 4️⃣Trending Hashtags
 
-!(https://github.com/user-attachments/assets/68ced3d8-b452-43da-8530-0eb8c8f98fc6)
+![image](https://github.com/user-attachments/assets/2189ee52-5e5b-4289-bd4d-10a8eee07963)
 
 ## 📜 License
 
