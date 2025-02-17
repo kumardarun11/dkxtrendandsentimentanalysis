@@ -4,7 +4,7 @@
 
 This project is a **Twitter (X) Sentiment Analysis Dashboard**, which collects, processes, and visualizes sentiment trends from tweets related to AI technology. The dashboard is built using **Python, Tweepy, Pandas, Streamlit, and Plotly**.
 
-## 🔗 **Live Demo:** [DK YouTube Trending Analysis Dashboard](https://dkxtrendandsentimentanalysis-bexdblctqvnxmdymyntvb2.streamlit.app/)
+## 🔗 **Live Demo:** [DK YouTube Trending Analysis Dashboard](https://dkxtrendandsentimentanalysis.streamlit.app/)
 
 ## 📌 Features
 
